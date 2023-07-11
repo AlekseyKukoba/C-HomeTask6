@@ -1,0 +1,15 @@
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\obj\Debug\net7.0\HomeTask6.csproj.AssemblyReference.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\obj\Debug\net7.0\HomeTask6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\obj\Debug\net7.0\HomeTask6.AssemblyInfoInputs.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\obj\Debug\net7.0\HomeTask6.AssemblyInfo.cs
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\obj\Debug\net7.0\HomeTask6.csproj.CoreCompileInputs.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\bin\Debug\net7.0\HomeTask6.exe
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\bin\Debug\net7.0\HomeTask6.deps.json
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\bin\Debug\net7.0\HomeTask6.runtimeconfig.json
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\bin\Debug\net7.0\HomeTask6.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\bin\Debug\net7.0\HomeTask6.pdb
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\obj\Debug\net7.0\HomeTask6.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\obj\Debug\net7.0\refint\HomeTask6.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\obj\Debug\net7.0\HomeTask6.pdb
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\obj\Debug\net7.0\HomeTask6.genruntimeconfig.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\HomeTask6\obj\Debug\net7.0\ref\HomeTask6.dll
